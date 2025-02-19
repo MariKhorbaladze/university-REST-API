@@ -52,7 +52,6 @@ const Homepage = () => {
     <div style={{ 
       display: 'flex',
       justifyContent: 'center',
-      minHeight: '80vh',
       padding: '20px',
     }}>
       <div style={{
